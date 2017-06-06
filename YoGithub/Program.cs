@@ -10,7 +10,7 @@ namespace YoGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yo Github");
+            Console.WriteLine("Yo Github take 2"); //testing to see if updates are successful
             String x = Console.ReadLine();
             Console.WriteLine(x);
             Console.ReadKey();
